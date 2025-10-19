@@ -183,3 +183,7 @@ uploadfile
 !main/manager-mobile/**/env/
 !main/manager-mobile/**/.env*
 !main/manager-mobile/**/*.json
+main/manager-web/package-lock.json
+main/manager-api/.compiled
+main/xiaozhi-server/.deps_installed
+main/manager-web/package-lock.json
